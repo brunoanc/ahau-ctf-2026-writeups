@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "ecb_payload_sender",
+  "version": "${version}",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ctf.ahau.ecb.EcbPayloadSenderClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.4",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
