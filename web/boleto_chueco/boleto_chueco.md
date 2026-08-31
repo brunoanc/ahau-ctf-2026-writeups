@@ -14,7 +14,7 @@ La página contiene un kiosco del Museo AHAU que permite registrar un nombre de 
 
 También muestra un enlace hacia `/vault`, descrito como el archivo del curador, pero al intentar acceder con un ticket normal el servidor rechaza la solicitud.
 
-Al registrar el usuario `hola`, obtuve el ticket como:
+Al registrar el usuario `hola`, obtuve el ticket:
 
 ```
 AH1.eyJyIjoidXNlciIsInQiOjE3ODgxNTcxNzYsInUiOiJob2xhIn0.PEjxF0YksXdQVm6R8T7L81buUDviGt31MN6ABI2HdI8
